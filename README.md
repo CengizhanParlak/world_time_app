@@ -14,4 +14,21 @@ a Flutter starter project done through following the course by The Net Ninja fro
 * Different widgets to use (Padding, DecorationBox, Padding, Column, Row, ListView)
 * Playing with styles and attributes of widgets
 
-## Project screenshots
+## Project
+<details>
+  <summary>Main Screen</summary>
+
+  ![](images/Main%20Screen.png)
+</details>
+
+<details>
+  <summary>Main Screen-2</summary>
+  
+  ![](images/Main%20Screen-2%20.png)
+</details>
+
+<details>
+  <summary>Location</summary>
+
+  ![](images/Choose%20Location.png)
+</details>
